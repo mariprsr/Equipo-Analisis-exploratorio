@@ -11,7 +11,7 @@ Para cargar los datos en tu script de Python, puedes usar el siguiente código:
 ```python
 import pandas as pd
 
-url = 'https://drive.google.com/uc?id=1aBcD3fG4HiJklmnOpQ'
+url = 'https://drive.google.com/file/d/1QCY7WYwSzFQyhM0oY4_xP7C6ict4Oj17/view?usp=sharing'
 df = pd.read_csv(url, usecols=['Indice Masa Corporal = Peso/talla Al Cuadrado', '24_Talla', '23_Peso',
        '25_TenArtSis', '26_TenArtDitlica', '36_RcbeIECA_SI', '37_RcbeARA2_SI',
        'EDAD (Años cumplidos)', '8_Sexo_F', '18_DxHTA_SI', '20_DxDM_SI',
