@@ -11,7 +11,6 @@ Para cargar los datos en tu script de Python, puedes usar el siguiente código:
 ```python
 import pandas as pd
 
-# Cargar el archivo CSV desde el enlace de Google Drive (asegúrate de cambiar el enlace)
 url = 'https://drive.google.com/uc?id=1aBcD3fG4HiJklmnOpQ'
 df = pd.read_csv(url, usecols=['Indice Masa Corporal = Peso/talla Al Cuadrado', '24_Talla', '23_Peso',
        '25_TenArtSis', '26_TenArtDitlica', '36_RcbeIECA_SI', '37_RcbeARA2_SI',
