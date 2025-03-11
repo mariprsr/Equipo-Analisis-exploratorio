@@ -17,7 +17,7 @@ Edad: La edad promedio de 63.4 años sugiere que la población estudiada es pred
 Presión Arterial Sistólica: La presión arterial sistólica promedio de 125.4 mmHg está en el límite superior del rango normal, lo que indica un riesgo potencial de hipertensión. La presencia de valores atípicos (0 y 270 mmHg) sugiere errores de medición o casos extremos.
 
 ## Sesgos
-La alta variabilidad en el IMC y la presencia de valores atípicos en todas las variables sugieren la necesidad de una limpieza y preprocesamiento de datos más exhaustivos. 
+La elevada variabilidad en el IMC, junto con la presencia de valores atípicos en diversas variables, resalta la importancia de realizar una limpieza y un preprocesamiento de datos más detallado y riguroso 
 
 ## Principales conclusiones
 Resumir los hallazgos clave obtenidos en el análisis.
