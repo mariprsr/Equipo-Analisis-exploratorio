@@ -6,6 +6,7 @@ https://drive.google.com/file/d/1QCY7WYwSzFQyhM0oY4_xP7C6ict4Oj17/view?usp=shari
 
 Explicar por qué la variable seleccionada es relevante dentro del conjunto de datos.
 Indicar cómo podría influir en el análisis o en la toma de decisiones.
+Introducción y selección de la variable
 
 ## Metodología
 - Se implementa un modelo de regresión lineal
@@ -27,9 +28,6 @@ Conclusiones del análisis (2 puntos)
 ## Principales conclusiones
 Resumir los hallazgos clave obtenidos en el análisis.
 Mencionar implicaciones o próximos pasos que podrían derivarse de los resultados.
-Estructura de entrega:
-Introducción y selección de la variable
-Explicación de su importancia
-Código en Python con análisis univariado y visualizaciones
-Interpretación de los resultados
-Conclusiones
+
+## Siguientes pasos
+Validación de decisión sobre valores atípicos.
