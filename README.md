@@ -4,7 +4,7 @@ Este es un proyecto de análisis de datos que utiliza un conjunto de datos muy g
 
 https://drive.google.com/file/d/1QCY7WYwSzFQyhM0oY4_xP7C6ict4Oj17/view?usp=sharing
 
-## Carga de Datos en Python
+## Principales conclusiones
 
 Para cargar los datos en tu script de Python, puedes usar el siguiente código:
 
