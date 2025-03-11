@@ -8,13 +8,26 @@ https://drive.google.com/file/d/1QCY7WYwSzFQyhM0oY4_xP7C6ict4Oj17/view?usp=shari
 
 Para cargar los datos en tu script de Python, puedes usar el siguiente código:
 
-```python
-import pandas as pd
+Descripción:
+En esta actividad, cada grupo deberá crear en un repositorio de Github un notebook con acceso público (o privado con acceso a armandoordonez@gmail.com) y seleccionar una columna (variable) de un conjunto de datos, describir su importancia, realizar un análisis univariado utilizando Python y presentar conclusiones basadas en los hallazgos. Por favor sube el enlace al notebook.
 
-url = 'https://drive.google.com/file/d/1QCY7WYwSzFQyhM0oY4_xP7C6ict4Oj17/view?usp=sharing'
-df = pd.read_csv(url, usecols=['Indice Masa Corporal = Peso/talla Al Cuadrado', '24_Talla', '23_Peso',
-       '25_TenArtSis', '26_TenArtDitlica', '36_RcbeIECA_SI', '37_RcbeARA2_SI',
-       'EDAD (Años cumplidos)', '8_Sexo_F', '18_DxHTA_SI', '20_DxDM_SI',
-       '22_EtiologiaERC_HTA', '22_EtiologiaERC_DM', '22_EtiologiaERC_HTA-DM',
-       'CLASIFICACION FINAL DEL RIESGO_ALTO','CLASIFICACION FINAL DEL RIESGO_BAJO',
-       'CLASIFICACION FINAL DEL RIESGO_MODERADO','CLASIFICACION FINAL DEL RIESGO_MUY ALTO'])
+Instrucciones:
+Descripción de la importancia de la columna (1 punto)
+
+Explicar por qué la variable seleccionada es relevante dentro del conjunto de datos.
+Indicar cómo podría influir en el análisis o en la toma de decisiones.
+Análisis univariado en Python (2 puntos)
+
+Generar estadísticas descriptivas (media, mediana, moda, desviación estándar, valores atípicos, etc.).
+Visualizar la distribución de la variable usando histogramas, boxplots u otras gráficas adecuadas.
+Identificar posibles sesgos o patrones dentro de los datos.
+Conclusiones del análisis (2 puntos)
+
+Resumir los hallazgos clave obtenidos en el análisis.
+Mencionar implicaciones o próximos pasos que podrían derivarse de los resultados.
+Estructura de entrega:
+Introducción y selección de la variable
+Explicación de su importancia
+Código en Python con análisis univariado y visualizaciones
+Interpretación de los resultados
+Conclusiones
