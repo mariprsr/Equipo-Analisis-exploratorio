@@ -2,8 +2,12 @@
 El IMC,actúa como una variable compuesta que resume la información contenida en el peso y la altura en lugar de usarlas en sí mismas, condensando dos variables que generarían problemas de colinealidad.
  
 ## Metodología
-- Análisis Univariado de una Variable en un Conjunto de Datos Hallazgos claves:
-- Se implemento un modelo de regresión logística multiclase
+- Se realiza un entendimiento de los datos y las variables.
+- Desde la matriz de correlaciones, se observan posibles variables que podrian generar multicolinealidad.
+- Se realiza selección de las variables.
+- Analis univariado: estadisticas descriptivas. 
+- Se busca implementar un modelo de regresión logística multiclase
+
 
 ## Hallazgos
 IMC: La distribución del IMC muestra una alta variabilidad y la presencia de valores atípicos, lo que sugiere la necesidad de limpiar los datos o considerar transformaciones para el modelo. Un IMC promedio de 28.5 indica que, en promedio, la población estudiada tiene sobrepeso, lo cual es un factor de riesgo conocido para enfermedades cardiovasculares.
