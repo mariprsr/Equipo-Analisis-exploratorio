@@ -1,13 +1,7 @@
 ## Proyecto de Análisis
 
-Este es un proyecto de análisis de datos que utiliza un conjunto de datos muy grande. El archivo de datos se encuentra en **Google Drive** y se puede descargar desde el siguiente enlace:
-
-https://drive.google.com/file/d/1QCY7WYwSzFQyhM0oY4_xP7C6ict4Oj17/view?usp=sharing
-
-Explicar por qué la variable seleccionada es relevante dentro del conjunto de datos.
-Indicar cómo podría influir en el análisis o en la toma de decisiones.
-Introducción y selección de la variable
-
+El IMC,actúa como una variable compuesta que resume la información contenida en el peso y la altura en lugar de usarlas en sí mismas, condensando dos variables que generarían problemas de colinealidad.
+ 
 ## Metodología
 - Análisis Univariado de una Variable en un Conjunto de Datos Hallazgos claves:
 - Se implemento un modelo de regresión logística multiclase
