@@ -11,6 +11,7 @@ Introducción y selección de la variable
 ## Metodología
 - Se implementa un modelo de regresión lineal
 - Análisis Univariado de una Variable en un Conjunto de Datos Hallazgos claves:
+- Se implemente un modelo de regresión logística multiclase
 
 ## Hallazgos
 IMC: La distribución del IMC muestra una alta variabilidad y la presencia de valores atípicos, lo que sugiere la necesidad de limpiar los datos o considerar transformaciones para el modelo. Un IMC promedio de 28.5 indica que, en promedio, la población estudiada tiene sobrepeso, lo cual es un factor de riesgo conocido para enfermedades cardiovasculares.
