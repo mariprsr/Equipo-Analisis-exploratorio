@@ -1,4 +1,4 @@
-# Proyecto de Análisis
+## Proyecto de Análisis
 
 Este es un proyecto de análisis de datos que utiliza un conjunto de datos muy grande. El archivo de datos se encuentra en **Google Drive** y se puede descargar desde el siguiente enlace:
 
@@ -7,7 +7,7 @@ https://drive.google.com/file/d/1QCY7WYwSzFQyhM0oY4_xP7C6ict4Oj17/view?usp=shari
 Explicar por qué la variable seleccionada es relevante dentro del conjunto de datos.
 Indicar cómo podría influir en el análisis o en la toma de decisiones.
 
-# Metodología
+## Metodología
 - Se implementa un modelo de regresión lineal
 - Análisis Univariado de una Variable en un Conjunto de Datos Hallazgos claves:
 
