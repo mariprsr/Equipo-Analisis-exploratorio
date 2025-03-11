@@ -9,7 +9,6 @@ Indicar cómo podría influir en el análisis o en la toma de decisiones.
 Introducción y selección de la variable
 
 ## Metodología
-- Se implementa un modelo de regresión lineal
 - Análisis Univariado de una Variable en un Conjunto de Datos Hallazgos claves:
 - Se implemento un modelo de regresión logística multiclase
 
