@@ -1,5 +1,4 @@
 ## Proyecto de Análisis
-
 El IMC,actúa como una variable compuesta que resume la información contenida en el peso y la altura en lugar de usarlas en sí mismas, condensando dos variables que generarían problemas de colinealidad.
  
 ## Metodología
@@ -13,11 +12,8 @@ Edad: La edad promedio de 63.4 años sugiere que la población estudiada es pred
 
 Presión Arterial Sistólica: La presión arterial sistólica promedio de 125.4 mmHg está en el límite superior del rango normal, lo que indica un riesgo potencial de hipertensión. La presencia de valores atípicos (0 y 270 mmHg) sugiere errores de medición o casos extremos.
 
-La alta variabilidad en el IMC y la presencia de valores atípicos en todas las variables sugieren la necesidad de una limpieza y preprocesamiento de datos más exhaustivos. 
-
 ## Sesgos
-Identificar posibles sesgos o patrones dentro de los datos.
-Conclusiones del análisis (2 puntos)
+La alta variabilidad en el IMC y la presencia de valores atípicos en todas las variables sugieren la necesidad de una limpieza y preprocesamiento de datos más exhaustivos. 
 
 ## Principales conclusiones
 Resumir los hallazgos clave obtenidos en el análisis.
