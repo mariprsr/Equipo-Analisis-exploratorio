@@ -1,30 +1,21 @@
-## Proyecto de Análisis
-El IMC,actúa como una variable compuesta que resume la información contenida en el peso y la altura en lugar de usarlas en sí mismas, condensando dos variables que generarían problemas de colinealidad.
- 
-## Metodología
-- Se realiza un entendimiento de los datos y las variables.
-- Desde la matriz de correlaciones, se observan posibles variables que podrian generar multicolinealidad.
-- Se realiza selección de las variables.
-- Analis univariado: estadisticas descriptivas. 
-- Se busca implementar un modelo de regresión logística multiclase
-
-
-## Hallazgos
-IMC: La distribución del IMC muestra una alta variabilidad y la presencia de valores atípicos, lo que sugiere la necesidad de limpiar los datos o considerar transformaciones para el modelo. Un IMC promedio de 28.5 indica que, en promedio, la población estudiada tiene sobrepeso, lo cual es un factor de riesgo conocido para enfermedades cardiovasculares.
-
-Edad: La edad promedio de 63.4 años sugiere que la población estudiada es predominantemente de adultos mayores, un grupo con mayor riesgo cardiovascular. La distribución de edades no muestra sesgos evidentes, pero la presencia de valores atípicos podría indicar errores de datos o excepciones.
-
-Presión Arterial Sistólica: La presión arterial sistólica promedio de 125.4 mmHg está en el límite superior del rango normal, lo que indica un riesgo potencial de hipertensión. La presencia de valores atípicos (0 y 270 mmHg) sugiere errores de medición o casos extremos.
-
-## Sesgos
-La elevada variabilidad en el IMC, junto con la presencia de valores atípicos en diversas variables, resalta la importancia de realizar una limpieza y un preprocesamiento de datos más detallado y riguroso 
-
-## Principales conclusiones
-Conclusión añadida
-Añadida
-Añadida
-Resumir los hallazgos clave obtenidos en el análisis.
-Mencionar implicaciones o próximos pasos que podrían derivarse de los resultados.
-
-## Siguientes pasos
-Validación de decisión sobre valores atípicos.
+2  Contexto
+2.1  Descripción de los campos
+3  Análisis exploratorio
+3.1  Análisis de estructura
+3.2  Análisis de variables categóricas
+3.3  Análisis de variables enteras
+3.4  Análisis de variables continuas
+3.4.1  Analisis de outliers
+3.4.1.1  Outliers de ingresos
+3.4.1.2  Outliers de deudas y créditos
+3.4.2  Conclusiones Outliers
+4  Limpieza de datos
+4.1  Division de datasets
+4.2  Ingreso bruto menor a ingreso líquido
+4.3  Estandarización
+4.4  Imputación
+5  Feature Engineering
+5.1  Dummificar variables
+5.2  PCA
+5.3  LDA
+5.4  Clustering
