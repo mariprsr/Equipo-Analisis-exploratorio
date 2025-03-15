@@ -20,6 +20,9 @@ Presión Arterial Sistólica: La presión arterial sistólica promedio de 125.4 
 La elevada variabilidad en el IMC, junto con la presencia de valores atípicos en diversas variables, resalta la importancia de realizar una limpieza y un preprocesamiento de datos más detallado y riguroso 
 
 ## Principales conclusiones
+Conclusión añadida
+Añadida
+Añadida
 Resumir los hallazgos clave obtenidos en el análisis.
 Mencionar implicaciones o próximos pasos que podrían derivarse de los resultados.
 
